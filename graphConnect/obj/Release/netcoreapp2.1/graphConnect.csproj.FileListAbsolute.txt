@@ -1,0 +1,17 @@
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/appsettings.Development.json
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/appsettings.json
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/Properties/launchSettings.json
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/graphConnect.deps.json
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/graphConnect.runtimeconfig.json
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/graphConnect.runtimeconfig.dev.json
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/graphConnect.dll
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/graphConnect.pdb
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.RazorAssemblyInfo.cache
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.RazorAssemblyInfo.cs
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.AssemblyInfoInputs.cache
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.AssemblyInfo.cs
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.RazorTargetAssemblyInfo.cache
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.dll
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.pdb
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/obj/Release/netcoreapp2.1/graphConnect.csprojAssemblyReference.cache
+/Users/t0403ndr/Documents/Source code x/l5connectapp/graphConnect/bin/Release/netcoreapp2.1/mono_crash.c6f85e0b0.0.json

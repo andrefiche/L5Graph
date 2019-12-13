@@ -1,0 +1,880 @@
+{
+	"id": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+	"name": "Colection L5",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"name": "Access Tokem",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"order": [
+				"a8072371-880b-ec90-0404-45539ef453e2",
+				"0a842ead-995e-bd9c-9d04-3919f707096d",
+				"2418f2ca-7e8e-d96f-22a8-0ac45c3784ab"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "e2e63746-c561-f946-e8c0-d416f7832185"
+		},
+		{
+			"name": "Teams",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"order": [
+				"98d8a623-9ad8-a52f-9555-68db5ce31761",
+				"bb97850a-cd64-f4dc-60aa-6d62adce67cc",
+				"6e6fd28d-cd53-821a-e022-aea73db545ba"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "bb0d8d4f-a7c4-3b2f-b574-b63d78470d81"
+		},
+		{
+			"name": "Users",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"order": [
+				"08b75748-bc28-3f12-a9c4-d24f92c561d2",
+				"5fde81cb-a3b2-a32f-fdcf-47569d60c21d",
+				"b59498d5-a9a6-94bb-329f-4b558cbedc81",
+				"e25d9c44-23b5-c25e-28d6-e7f975cab508",
+				"eb2fc3cd-eccc-5c0e-69d8-d3490f084222"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "9825462f-bd41-aff9-d7fa-af5c4ecf2e0b"
+		}
+	],
+	"folders_order": [
+		"9825462f-bd41-aff9-d7fa-af5c4ecf2e0b",
+		"bb0d8d4f-a7c4-3b2f-b574-b63d78470d81",
+		"e2e63746-c561-f946-e8c0-d416f7832185"
+	],
+	"timestamp": 1570478014027,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "08b75748-bc28-3f12-a9c4-d24f92c561d2",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6Im01YWZXX3c4OEMteF9IT2RtSWllaGN6UVM4SGJLWV93SFVIMTBhTnVmTzAiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcxMDY4NTgwLCJuYmYiOjE1NzEwNjg1ODAsImV4cCI6MTU3MTA3MjQ4MCwiYWlvIjoiNDJWZ1lOaWUyQmphOVdEUFBZdVUxbXltZnBGUUFBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoiMzdXUjM1TlJaMEtrUGpvdDMxWmVBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.eprFybQviqjVkNv1csiq3oULZ6YYjHauveYAWgILYdHNwqqTTNUY3hdVuCwZsO0xRtygtf-uHnsy_Td7TWf1cXShI5lN8VkExhZb7aqvx53f3QYWtFugrAlqL4TGIt3d-IJ3R-jJVO9HmjLhloUhRqdlQf7tCSL5Og_tCcxYrO6xqu5sHcQ22MYLetG39YvpBtTGcQLjr7xRD5RPP2ScAC5yrYsPbAw6Zwf3avTpwaedNIR0xe9U1zjv6dPZiNaw8jbI0YpMMlYU9ja-1mK--WU8HIFNrDidFWUXDSiKDOHCFbN1D_TI2puLpuDyMuJpGbxV2G9szE6kI350hoG-ew\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6Im01YWZXX3c4OEMteF9IT2RtSWllaGN6UVM4SGJLWV93SFVIMTBhTnVmTzAiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcxMDY4NTgwLCJuYmYiOjE1NzEwNjg1ODAsImV4cCI6MTU3MTA3MjQ4MCwiYWlvIjoiNDJWZ1lOaWUyQmphOVdEUFBZdVUxbXltZnBGUUFBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoiMzdXUjM1TlJaMEtrUGpvdDMxWmVBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.eprFybQviqjVkNv1csiq3oULZ6YYjHauveYAWgILYdHNwqqTTNUY3hdVuCwZsO0xRtygtf-uHnsy_Td7TWf1cXShI5lN8VkExhZb7aqvx53f3QYWtFugrAlqL4TGIt3d-IJ3R-jJVO9HmjLhloUhRqdlQf7tCSL5Og_tCcxYrO6xqu5sHcQ22MYLetG39YvpBtTGcQLjr7xRD5RPP2ScAC5yrYsPbAw6Zwf3avTpwaedNIR0xe9U1zjv6dPZiNaw8jbI0YpMMlYU9ja-1mK--WU8HIFNrDidFWUXDSiKDOHCFbN1D_TI2puLpuDyMuJpGbxV2G9szE6kI350hoG-ew",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/users",
+			"folder": "9825462f-bd41-aff9-d7fa-af5c4ecf2e0b",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *Get App-Only Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least *User.Read.All* in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *Application | Get App-Only Access Token* request to update access token. \");\r\n        }\r\n        else\r\n        {\r\n            var json = JSON.parse(responseBody);\r\n            // Get a user with a mailbox\r\n            postman.setEnvironmentVariable(\"UserId\", json.value[0].id);\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1571069849793,
+			"name": "Get Users",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": []
+		},
+		{
+			"id": "0a842ead-995e-bd9c-9d04-3919f707096d",
+			"headers": "UserAgent: l5-graph/v1.0\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "UserAgent",
+					"value": "l5-graph/v1.0",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?\nclient_id=5ac54a7b-f4e4-4340-abd7-3a3230eec584\n&response_type=code\n&redirect_uri=https%3A%2F%2Flocalhost%2Fmyapp%2F\n&response_mode=query\n&scope=offline_access%20user.read%20mail.read",
+			"folder": "e2e63746-c561-f946-e8c0-d416f7832185",
+			"queryParams": [
+				{
+					"key": "\nclient_id",
+					"value": "5ac54a7b-f4e4-4340-abd7-3a3230eec584\n",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "response_type",
+					"value": "code\n",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "redirect_uri",
+					"value": "https%3A%2F%2Flocalhost%2Fmyapp%2F\n",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "response_mode",
+					"value": "query\n",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "scope",
+					"value": "offline_access%20user.read%20mail.read",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"tests": "try {\r\n    if (pm.environment.get(\"ClientID\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *ClientID* environment variable first.\");\r\n    }\r\n    if (pm.environment.get(\"ClientSecret\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *ClientSecret* environment variable first.\");\r\n    }\r\n    if (pm.environment.get(\"TenantID\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *TenantID* environment variable first.\");\r\n    }\r\n    else\r\n    {\r\n        var json = JSON.parse(responseBody);\r\n        postman.setEnvironmentVariable(\"AppAccessToken\", json.access_token);\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1571328478888,
+			"name": "Access microsoft Graph login",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK"
+					},
+					"time": 782,
+					"headers": [
+						{
+							"name": "cache-control",
+							"key": "cache-control",
+							"value": "no-cache, no-store",
+							"description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "1372",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Mon, 09 Sep 2019 20:09:24 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "expires",
+							"key": "expires",
+							"value": "-1",
+							"description": "Gives the date/time after which the response is considered stale"
+						},
+						{
+							"name": "p3p",
+							"key": "p3p",
+							"value": "CP=\"DSP CUR OTPi IND OTRi ONL FIN\"",
+							"description": "This header is supposed to set P3P policy, in the form of P3P:CP=\"your_compact_policy\". However, P3P did not take off, most browsers have never fully implemented it, a lot of websites set this header with fake policy text, that was enough to fool browsers the existence of P3P policy and grant permissions for third party cookies."
+						},
+						{
+							"name": "pragma",
+							"key": "pragma",
+							"value": "no-cache",
+							"description": "Implementation-specific headers that may have various effects anywhere along the request-response chain."
+						},
+						{
+							"name": "referrer-policy",
+							"key": "referrer-policy",
+							"value": "strict-origin-when-cross-origin",
+							"description": "Custom header"
+						},
+						{
+							"name": "strict-transport-security",
+							"key": "strict-transport-security",
+							"value": "max-age=31536000; includeSubDomains",
+							"description": "A HSTS Policy informing the HTTP client how long to cache the HTTPS only policy and whether this applies to subdomains."
+						},
+						{
+							"name": "x-content-type-options",
+							"key": "x-content-type-options",
+							"value": "nosniff",
+							"description": "The only defined value, \"nosniff\", prevents Internet Explorer from MIME-sniffing a response away from the declared content-type"
+						},
+						{
+							"name": "x-ms-ests-server",
+							"key": "x-ms-ests-server",
+							"value": "2.1.9288.15 - SAN ProdSlices",
+							"description": "Custom header"
+						},
+						{
+							"name": "x-ms-request-id",
+							"key": "x-ms-request-id",
+							"value": "87719dcb-f11d-47f1-9ad5-7707904b4e01",
+							"description": "Custom header"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"token_type\":\"Bearer\",\"expires_in\":3600,\"ext_expires_in\":3600,\"access_token\":\"eyJ0eXAiOiJKV1QiLCJub25jZSI6IlcwX3BMMUp4T3ZfclBmMmUxVEd4NmhVcnNzNlk4dF9Rbi0weTBhY1NObVUiLCJhbGciOiJSUzI1NiIsIng1dCI6ImllX3FXQ1hoWHh0MXpJRXN1NGM3YWNRVkduNCIsImtpZCI6ImllX3FXQ1hoWHh0MXpJRXN1NGM3YWNRVkduNCJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTY4MDU5NDY0LCJuYmYiOjE1NjgwNTk0NjQsImV4cCI6MTU2ODA2MzM2NCwiYWlvIjoiNDJGZ1lIZ3NselZYYVkwUzI4VTN4bTRmTzJTZkFBQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6Ink1MXhoeDN4OFVlYTFYY0hrRXRPQVEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.uuGX5bF2wHBnXtAnnszTbbSJdXc-II4lF9v6cs6jVzxhFQZAds1XdL_65ASRRBca7paCXXoObipwuFZY_H7vJ2NKisWiK3vl9vsEWy9FYG69Nk0vU3OBfaI6xPa5jkjsTDj5JRFF6yX3UVQsCsqLusWADGYFAQhDEkrLW26KyBJ7XSurYXH_X3VC0xagB4xkjlnywnQXClActGnFHRJLKtpQ6z40uP2UocbsLBvpq_Yy5ywfx00XSqtTKBkKpqe8KPIKNA38hpdGeb6FHsd4LxjUAo3Rzgaw-QfjNouzon9gb6Clk-rxxnsjH_QgvAgnYylKFSKjC7aREMhnq3CAOg\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get App-Only Access Token",
+					"id": "7e25daaa-15f8-4240-74d3-6b3a2d54f3c6",
+					"request": "0a842ead-995e-bd9c-9d04-3919f707096d",
+					"requestObject": {
+						"url": "https://login.microsoftonline.com/{{TenantID}}/oauth2/v2.0/token",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "SdkVersion",
+								"value": "postman-graph/v1.0",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Content-Type: application/x-www-form-urlencoded\nSdkVersion: postman-graph/v1.0\n",
+						"data": [
+							{
+								"key": "grant_type",
+								"value": "client_credentials",
+								"type": "text"
+							},
+							{
+								"key": "client_id",
+								"value": "{{ClientID}}",
+								"type": "text"
+							},
+							{
+								"key": "client_secret",
+								"value": "{{ClientSecret}}",
+								"type": "text"
+							},
+							{
+								"key": "scope",
+								"value": "https://graph.microsoft.com/.default",
+								"type": "text"
+							}
+						],
+						"method": "POST",
+						"dataMode": "urlencoded"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"GrantType\": \"client_credentials\",\n\t\"ClientID\": \"5ac54a7b-f4e4-4340-abd7-3a3230eec584\",\n\t\"ClientSecret\": \"6W@-c.Y98gomW]nMRxygBQ6SW8m@vgAL\",\n\t\"Scope\": \"https://graph.microsoft.com/.default\",\n\t\"TenatID\": \"93971557-2c2d-49da-bab7-68133b11718c\"\n}\t"
+		},
+		{
+			"id": "2418f2ca-7e8e-d96f-22a8-0ac45c3784ab",
+			"headers": "UserAgent: l5-graph/v1.0\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "UserAgent",
+					"value": "l5-graph/v1.0",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/authorization/user",
+			"folder": "e2e63746-c561-f946-e8c0-d416f7832185",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": "try {\r\n    if (pm.environment.get(\"ClientID\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *ClientID* environment variable first.\");\r\n    }\r\n    if (pm.environment.get(\"ClientSecret\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *ClientSecret* environment variable first.\");\r\n    }\r\n    if (pm.environment.get(\"TenantID\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *TenantID* environment variable first.\");\r\n    }\r\n    else\r\n    {\r\n        var json = JSON.parse(responseBody);\r\n        postman.setEnvironmentVariable(\"AppAccessToken\", json.access_token);\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1571328423242,
+			"name": "Access tokem microsoft Graph user code",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK"
+					},
+					"time": 782,
+					"headers": [
+						{
+							"name": "cache-control",
+							"key": "cache-control",
+							"value": "no-cache, no-store",
+							"description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "1372",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Mon, 09 Sep 2019 20:09:24 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "expires",
+							"key": "expires",
+							"value": "-1",
+							"description": "Gives the date/time after which the response is considered stale"
+						},
+						{
+							"name": "p3p",
+							"key": "p3p",
+							"value": "CP=\"DSP CUR OTPi IND OTRi ONL FIN\"",
+							"description": "This header is supposed to set P3P policy, in the form of P3P:CP=\"your_compact_policy\". However, P3P did not take off, most browsers have never fully implemented it, a lot of websites set this header with fake policy text, that was enough to fool browsers the existence of P3P policy and grant permissions for third party cookies."
+						},
+						{
+							"name": "pragma",
+							"key": "pragma",
+							"value": "no-cache",
+							"description": "Implementation-specific headers that may have various effects anywhere along the request-response chain."
+						},
+						{
+							"name": "referrer-policy",
+							"key": "referrer-policy",
+							"value": "strict-origin-when-cross-origin",
+							"description": "Custom header"
+						},
+						{
+							"name": "strict-transport-security",
+							"key": "strict-transport-security",
+							"value": "max-age=31536000; includeSubDomains",
+							"description": "A HSTS Policy informing the HTTP client how long to cache the HTTPS only policy and whether this applies to subdomains."
+						},
+						{
+							"name": "x-content-type-options",
+							"key": "x-content-type-options",
+							"value": "nosniff",
+							"description": "The only defined value, \"nosniff\", prevents Internet Explorer from MIME-sniffing a response away from the declared content-type"
+						},
+						{
+							"name": "x-ms-ests-server",
+							"key": "x-ms-ests-server",
+							"value": "2.1.9288.15 - SAN ProdSlices",
+							"description": "Custom header"
+						},
+						{
+							"name": "x-ms-request-id",
+							"key": "x-ms-request-id",
+							"value": "87719dcb-f11d-47f1-9ad5-7707904b4e01",
+							"description": "Custom header"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"token_type\":\"Bearer\",\"expires_in\":3600,\"ext_expires_in\":3600,\"access_token\":\"eyJ0eXAiOiJKV1QiLCJub25jZSI6IlcwX3BMMUp4T3ZfclBmMmUxVEd4NmhVcnNzNlk4dF9Rbi0weTBhY1NObVUiLCJhbGciOiJSUzI1NiIsIng1dCI6ImllX3FXQ1hoWHh0MXpJRXN1NGM3YWNRVkduNCIsImtpZCI6ImllX3FXQ1hoWHh0MXpJRXN1NGM3YWNRVkduNCJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTY4MDU5NDY0LCJuYmYiOjE1NjgwNTk0NjQsImV4cCI6MTU2ODA2MzM2NCwiYWlvIjoiNDJGZ1lIZ3NselZYYVkwUzI4VTN4bTRmTzJTZkFBQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6Ink1MXhoeDN4OFVlYTFYY0hrRXRPQVEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.uuGX5bF2wHBnXtAnnszTbbSJdXc-II4lF9v6cs6jVzxhFQZAds1XdL_65ASRRBca7paCXXoObipwuFZY_H7vJ2NKisWiK3vl9vsEWy9FYG69Nk0vU3OBfaI6xPa5jkjsTDj5JRFF6yX3UVQsCsqLusWADGYFAQhDEkrLW26KyBJ7XSurYXH_X3VC0xagB4xkjlnywnQXClActGnFHRJLKtpQ6z40uP2UocbsLBvpq_Yy5ywfx00XSqtTKBkKpqe8KPIKNA38hpdGeb6FHsd4LxjUAo3Rzgaw-QfjNouzon9gb6Clk-rxxnsjH_QgvAgnYylKFSKjC7aREMhnq3CAOg\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get App-Only Access Token",
+					"id": "e19eb723-911a-5113-6c1c-66063d703c0f",
+					"request": "2418f2ca-7e8e-d96f-22a8-0ac45c3784ab",
+					"requestObject": {
+						"url": "https://login.microsoftonline.com/{{TenantID}}/oauth2/v2.0/token",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "SdkVersion",
+								"value": "postman-graph/v1.0",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Content-Type: application/x-www-form-urlencoded\nSdkVersion: postman-graph/v1.0\n",
+						"data": [
+							{
+								"key": "grant_type",
+								"value": "client_credentials",
+								"type": "text"
+							},
+							{
+								"key": "client_id",
+								"value": "{{ClientID}}",
+								"type": "text"
+							},
+							{
+								"key": "client_secret",
+								"value": "{{ClientSecret}}",
+								"type": "text"
+							},
+							{
+								"key": "scope",
+								"value": "https://graph.microsoft.com/.default",
+								"type": "text"
+							}
+						],
+						"method": "POST",
+						"dataMode": "urlencoded"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"GrantType\": \"client_credentials\",\n\t\"ClientID\": \"5ac54a7b-f4e4-4340-abd7-3a3230eec584\",\n\t\"ClientSecret\": \"6W@-c.Y98gomW]nMRxygBQ6SW8m@vgAL\",\n\t\"Scope\": \"https://graph.microsoft.com/.default\",\n\t\"Code\": \"M59b1d2ac-842d-eaf4-db02-fef7ada308c2\",\n\t\"RedirectUri\": \"https%3A%2F%2Flocalhost%2Fmyapp%2F\"\n}\t"
+		},
+		{
+			"id": "5fde81cb-a3b2-a32f-fdcf-47569d60c21d",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6IkdkSEhRQ1ZHM1lTZDdGQnAxbDlvYmJsUmRoYUJBeXpLRGVxdHlJWXY1eGMiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwODIyODQwLCJuYmYiOjE1NzA4MjI4NDAsImV4cCI6MTU3MDgyNjc0MCwiYWlvIjoiNDJWZ1lJajV1WU5iOHV4M3J3dm5qVS9NdlBJb0hnQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoiaHZlR2lnR2dGVXlYUERJaUQ5Y2VBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.lfRzqUs1NA6iXwT2MtjEnvvW7Q43GMDEPj_aNuHANzPavFU7_fV9Z23spqLZCwCYTpEe045HXYj3KxEs3lOY4eCQil2uhOPxMQ1MpUNYY9i83WuAFtabCfLGYD9ZG1q5D-X4A0HGvp3uEqUPLaF7djdi-lxc-VrsSs-Eu--E0avFjYVoONra0ybuJnBK59kJvOM1RVpWFX-AQpThNYPA_h6PFMPrZqT7vxs5cqPzPaIPto-r8TxNuwmgAATJfM7Wy_V8VHMxFS8TiX-HcpaeFRysAkmzZavbyTik1zYwV-dOmzmDQ_SlkbS48d4YCkIKVVQy-VC4O73AHb0eiQ-NgA\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6IkdkSEhRQ1ZHM1lTZDdGQnAxbDlvYmJsUmRoYUJBeXpLRGVxdHlJWXY1eGMiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwODIyODQwLCJuYmYiOjE1NzA4MjI4NDAsImV4cCI6MTU3MDgyNjc0MCwiYWlvIjoiNDJWZ1lJajV1WU5iOHV4M3J3dm5qVS9NdlBJb0hnQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoiaHZlR2lnR2dGVXlYUERJaUQ5Y2VBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.lfRzqUs1NA6iXwT2MtjEnvvW7Q43GMDEPj_aNuHANzPavFU7_fV9Z23spqLZCwCYTpEe045HXYj3KxEs3lOY4eCQil2uhOPxMQ1MpUNYY9i83WuAFtabCfLGYD9ZG1q5D-X4A0HGvp3uEqUPLaF7djdi-lxc-VrsSs-Eu--E0avFjYVoONra0ybuJnBK59kJvOM1RVpWFX-AQpThNYPA_h6PFMPrZqT7vxs5cqPzPaIPto-r8TxNuwmgAATJfM7Wy_V8VHMxFS8TiX-HcpaeFRysAkmzZavbyTik1zYwV-dOmzmDQ_SlkbS48d4YCkIKVVQy-VC4O73AHb0eiQ-NgA",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/users/c270b9f1-cb21-4ed0-bcb1-12c29d70e12d",
+			"folder": "9825462f-bd41-aff9-d7fa-af5c4ecf2e0b",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *Get App-Only Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least *User.Read.All* in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *Application | Get App-Only Access Token* request to update access token. \");\r\n        }\r\n        else\r\n        {\r\n            var json = JSON.parse(responseBody);\r\n            // Get a user with a mailbox\r\n            postman.setEnvironmentVariable(\"UserId\", json.value[0].id);\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1570823350355,
+			"name": "Delete User",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": []
+		},
+		{
+			"id": "6e6fd28d-cd53-821a-e022-aea73db545ba",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6Ik45aGpOdW5BbVNGUWhOaDViVEVtTVN2Q2ZHOExpMkhBa3JQMXQzSE5WYmciLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzE4NTU5LCJuYmYiOjE1NzA3MTg1NTksImV4cCI6MTU3MDcyMjQ1OSwiYWlvIjoiNDJWZ1lDZ09aNXl6djFDSG9ZODU4OWJFblJMc0FBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IndialZMdFZfNmtTcmZkYmFTbDlHQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.O10reVDflc-7IQRrwT4FkKQJQixWlXjlUAMVTMig66nheUlJXvIdSQp1KMLDiXF7BGhcLoOAeE3o-wuxZK0nR90KDaJ9F9bH2f418xUyJh_09y086Bg6_w8sQghURVpjuBRmDRlOenOXJ_isOopfd5orGP513D0wIW0VCx05ADVT2KrQ8v45T16Ipm6YHlOPzHLKtS8-teqyp8g0JyShW2IQwa1Vjul4MVCYgl-f243sFWGmUxKhu_ccC31Io2Jc5sSqQXEDm_nCIlyCeWxLkB7B6bDtK0CwuzxiVpD1ocP0169Pe_HQXWGDx91OyyOyRmdjQTllYvtgC896iPvN3Q\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6Ik45aGpOdW5BbVNGUWhOaDViVEVtTVN2Q2ZHOExpMkhBa3JQMXQzSE5WYmciLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzE4NTU5LCJuYmYiOjE1NzA3MTg1NTksImV4cCI6MTU3MDcyMjQ1OSwiYWlvIjoiNDJWZ1lDZ09aNXl6djFDSG9ZODU4OWJFblJMc0FBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IndialZMdFZfNmtTcmZkYmFTbDlHQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.O10reVDflc-7IQRrwT4FkKQJQixWlXjlUAMVTMig66nheUlJXvIdSQp1KMLDiXF7BGhcLoOAeE3o-wuxZK0nR90KDaJ9F9bH2f418xUyJh_09y086Bg6_w8sQghURVpjuBRmDRlOenOXJ_isOopfd5orGP513D0wIW0VCx05ADVT2KrQ8v45T16Ipm6YHlOPzHLKtS8-teqyp8g0JyShW2IQwa1Vjul4MVCYgl-f243sFWGmUxKhu_ccC31Io2Jc5sSqQXEDm_nCIlyCeWxLkB7B6bDtK0CwuzxiVpD1ocP0169Pe_HQXWGDx91OyyOyRmdjQTllYvtgC896iPvN3Q",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/teams/groups/hasMembersWithLicenseErrors+eq+true&$select=id,displayName",
+			"folder": "8b7142bc-8c57-68dc-7a2f-bd83556d075e",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *On behalf of a User | Get User Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least User.Read.All in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *On behalf of a User | Get User Access Token* request to update access token. \");\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}\r\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1570815267432,
+			"name": "Get Teams $filter",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": []
+		},
+		{
+			"id": "98d8a623-9ad8-a52f-9555-68db5ce31761",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6Ik45aGpOdW5BbVNGUWhOaDViVEVtTVN2Q2ZHOExpMkhBa3JQMXQzSE5WYmciLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzE4NTU5LCJuYmYiOjE1NzA3MTg1NTksImV4cCI6MTU3MDcyMjQ1OSwiYWlvIjoiNDJWZ1lDZ09aNXl6djFDSG9ZODU4OWJFblJMc0FBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IndialZMdFZfNmtTcmZkYmFTbDlHQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.O10reVDflc-7IQRrwT4FkKQJQixWlXjlUAMVTMig66nheUlJXvIdSQp1KMLDiXF7BGhcLoOAeE3o-wuxZK0nR90KDaJ9F9bH2f418xUyJh_09y086Bg6_w8sQghURVpjuBRmDRlOenOXJ_isOopfd5orGP513D0wIW0VCx05ADVT2KrQ8v45T16Ipm6YHlOPzHLKtS8-teqyp8g0JyShW2IQwa1Vjul4MVCYgl-f243sFWGmUxKhu_ccC31Io2Jc5sSqQXEDm_nCIlyCeWxLkB7B6bDtK0CwuzxiVpD1ocP0169Pe_HQXWGDx91OyyOyRmdjQTllYvtgC896iPvN3Q\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6Ik45aGpOdW5BbVNGUWhOaDViVEVtTVN2Q2ZHOExpMkhBa3JQMXQzSE5WYmciLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzE4NTU5LCJuYmYiOjE1NzA3MTg1NTksImV4cCI6MTU3MDcyMjQ1OSwiYWlvIjoiNDJWZ1lDZ09aNXl6djFDSG9ZODU4OWJFblJMc0FBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IndialZMdFZfNmtTcmZkYmFTbDlHQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.O10reVDflc-7IQRrwT4FkKQJQixWlXjlUAMVTMig66nheUlJXvIdSQp1KMLDiXF7BGhcLoOAeE3o-wuxZK0nR90KDaJ9F9bH2f418xUyJh_09y086Bg6_w8sQghURVpjuBRmDRlOenOXJ_isOopfd5orGP513D0wIW0VCx05ADVT2KrQ8v45T16Ipm6YHlOPzHLKtS8-teqyp8g0JyShW2IQwa1Vjul4MVCYgl-f243sFWGmUxKhu_ccC31Io2Jc5sSqQXEDm_nCIlyCeWxLkB7B6bDtK0CwuzxiVpD1ocP0169Pe_HQXWGDx91OyyOyRmdjQTllYvtgC896iPvN3Q",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/teams/groups",
+			"folder": "bb0d8d4f-a7c4-3b2f-b574-b63d78470d81",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *On behalf of a User | Get User Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least *Group.Read.All* AND *User.Read.All* in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *On behalf of a User | Get User Access Token* request to update access token. \");\r\n        }\r\n        else\r\n        {\r\n            var json = JSON.parse(responseBody);\r\n            postman.setEnvironmentVariable(\"TeamId\", json.value[0].id);\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}\r\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1570815262327,
+			"name": "Get Teams Groups",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": []
+		},
+		{
+			"id": "a8072371-880b-ec90-0404-45539ef453e2",
+			"headers": "UserAgent: l5-graph/v1.0\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "UserAgent",
+					"value": "l5-graph/v1.0",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://msapi.callbox.com.br/api/authorization",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": "try {\r\n    if (pm.environment.get(\"ClientID\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *ClientID* environment variable first.\");\r\n    }\r\n    if (pm.environment.get(\"ClientSecret\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *ClientSecret* environment variable first.\");\r\n    }\r\n    if (pm.environment.get(\"TenantID\") === \"\")\r\n    {\r\n        console.log(\"You need to enter *TenantID* environment variable first.\");\r\n    }\r\n    else\r\n    {\r\n        var json = JSON.parse(responseBody);\r\n        postman.setEnvironmentVariable(\"AppAccessToken\", json.access_token);\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1571328476627,
+			"name": "Access tokem microsoft Graph",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK"
+					},
+					"time": 782,
+					"headers": [
+						{
+							"name": "cache-control",
+							"key": "cache-control",
+							"value": "no-cache, no-store",
+							"description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "1372",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Mon, 09 Sep 2019 20:09:24 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "expires",
+							"key": "expires",
+							"value": "-1",
+							"description": "Gives the date/time after which the response is considered stale"
+						},
+						{
+							"name": "p3p",
+							"key": "p3p",
+							"value": "CP=\"DSP CUR OTPi IND OTRi ONL FIN\"",
+							"description": "This header is supposed to set P3P policy, in the form of P3P:CP=\"your_compact_policy\". However, P3P did not take off, most browsers have never fully implemented it, a lot of websites set this header with fake policy text, that was enough to fool browsers the existence of P3P policy and grant permissions for third party cookies."
+						},
+						{
+							"name": "pragma",
+							"key": "pragma",
+							"value": "no-cache",
+							"description": "Implementation-specific headers that may have various effects anywhere along the request-response chain."
+						},
+						{
+							"name": "referrer-policy",
+							"key": "referrer-policy",
+							"value": "strict-origin-when-cross-origin",
+							"description": "Custom header"
+						},
+						{
+							"name": "strict-transport-security",
+							"key": "strict-transport-security",
+							"value": "max-age=31536000; includeSubDomains",
+							"description": "A HSTS Policy informing the HTTP client how long to cache the HTTPS only policy and whether this applies to subdomains."
+						},
+						{
+							"name": "x-content-type-options",
+							"key": "x-content-type-options",
+							"value": "nosniff",
+							"description": "The only defined value, \"nosniff\", prevents Internet Explorer from MIME-sniffing a response away from the declared content-type"
+						},
+						{
+							"name": "x-ms-ests-server",
+							"key": "x-ms-ests-server",
+							"value": "2.1.9288.15 - SAN ProdSlices",
+							"description": "Custom header"
+						},
+						{
+							"name": "x-ms-request-id",
+							"key": "x-ms-request-id",
+							"value": "87719dcb-f11d-47f1-9ad5-7707904b4e01",
+							"description": "Custom header"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"token_type\":\"Bearer\",\"expires_in\":3600,\"ext_expires_in\":3600,\"access_token\":\"eyJ0eXAiOiJKV1QiLCJub25jZSI6IlcwX3BMMUp4T3ZfclBmMmUxVEd4NmhVcnNzNlk4dF9Rbi0weTBhY1NObVUiLCJhbGciOiJSUzI1NiIsIng1dCI6ImllX3FXQ1hoWHh0MXpJRXN1NGM3YWNRVkduNCIsImtpZCI6ImllX3FXQ1hoWHh0MXpJRXN1NGM3YWNRVkduNCJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTY4MDU5NDY0LCJuYmYiOjE1NjgwNTk0NjQsImV4cCI6MTU2ODA2MzM2NCwiYWlvIjoiNDJGZ1lIZ3NselZYYVkwUzI4VTN4bTRmTzJTZkFBQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6Ink1MXhoeDN4OFVlYTFYY0hrRXRPQVEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.uuGX5bF2wHBnXtAnnszTbbSJdXc-II4lF9v6cs6jVzxhFQZAds1XdL_65ASRRBca7paCXXoObipwuFZY_H7vJ2NKisWiK3vl9vsEWy9FYG69Nk0vU3OBfaI6xPa5jkjsTDj5JRFF6yX3UVQsCsqLusWADGYFAQhDEkrLW26KyBJ7XSurYXH_X3VC0xagB4xkjlnywnQXClActGnFHRJLKtpQ6z40uP2UocbsLBvpq_Yy5ywfx00XSqtTKBkKpqe8KPIKNA38hpdGeb6FHsd4LxjUAo3Rzgaw-QfjNouzon9gb6Clk-rxxnsjH_QgvAgnYylKFSKjC7aREMhnq3CAOg\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get App-Only Access Token",
+					"id": "9b5ec5b5-dea8-bb61-3f68-33b3befb8409",
+					"request": "164f8b49-ebb6-f6f2-1d12-3c4f4c104320",
+					"requestObject": {
+						"url": "https://login.microsoftonline.com/{{TenantID}}/oauth2/v2.0/token",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "SdkVersion",
+								"value": "postman-graph/v1.0",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Content-Type: application/x-www-form-urlencoded\nSdkVersion: postman-graph/v1.0\n",
+						"data": [
+							{
+								"key": "grant_type",
+								"value": "client_credentials",
+								"type": "text"
+							},
+							{
+								"key": "client_id",
+								"value": "{{ClientID}}",
+								"type": "text"
+							},
+							{
+								"key": "client_secret",
+								"value": "{{ClientSecret}}",
+								"type": "text"
+							},
+							{
+								"key": "scope",
+								"value": "https://graph.microsoft.com/.default",
+								"type": "text"
+							}
+						],
+						"method": "POST",
+						"dataMode": "urlencoded"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"GrantType\": \"client_credentials\",\n\t\"ClientID\": \"5ac54a7b-f4e4-4340-abd7-3a3230eec584\",\n\t\"ClientSecret\": \"6W@-c.Y98gomW]nMRxygBQ6SW8m@vgAL\",\n\t\"Scope\": \"https://graph.microsoft.com/.default\",\n\t\"TenatID\": \"93971557-2c2d-49da-bab7-68133b11718c\"\n}\t"
+		},
+		{
+			"id": "b59498d5-a9a6-94bb-329f-4b558cbedc81",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6IlpBTDR3SmFVdFBVWTZwOEJjbFUxeEZ5Y0RJZlp5X0kwRTFOVVI3UUN0dU0iLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzQzOTg1LCJuYmYiOjE1NzA3NDM5ODUsImV4cCI6MTU3MDc0Nzg4NSwiYWlvIjoiNDJWZ1lOaGZWdXFkT3VmS0N6azFMU092aFgwYkFBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IlhZRm5Kb0lDMTBteExPdEgwbThBQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.NzXq7yyPSfPta4de6jhpY2fbZv9SCuDP7V0nxYjUxj10qraX_9Efeef9qD8HrWjalpru-hyhHD-TP6HVV3mFZGH2FikPQIHm-1I8QGUWyzyn2GOuyMOwO3pEZSv1biI4QtNI20dEez-oTqXzXySXvaUQ8mEvCDKM915fwDiTvJWyg1cWlelXAAp7aFp8be81K3iFFm2br9T4zW-_uPbN2BDmUZ9Lz_LexCsDn8UpysiO-0dT8euQvX5_grHc2xBjZtIeaiNDjRbGDlJQ7AAs_ozGisWOjk0SXIN7-S3xVNEdeop5zV5mlcPlnIWa2npCiBua9Rt6DTc60MH3fk0ViQ\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6IlpBTDR3SmFVdFBVWTZwOEJjbFUxeEZ5Y0RJZlp5X0kwRTFOVVI3UUN0dU0iLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzQzOTg1LCJuYmYiOjE1NzA3NDM5ODUsImV4cCI6MTU3MDc0Nzg4NSwiYWlvIjoiNDJWZ1lOaGZWdXFkT3VmS0N6azFMU092aFgwYkFBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IlhZRm5Kb0lDMTBteExPdEgwbThBQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.NzXq7yyPSfPta4de6jhpY2fbZv9SCuDP7V0nxYjUxj10qraX_9Efeef9qD8HrWjalpru-hyhHD-TP6HVV3mFZGH2FikPQIHm-1I8QGUWyzyn2GOuyMOwO3pEZSv1biI4QtNI20dEez-oTqXzXySXvaUQ8mEvCDKM915fwDiTvJWyg1cWlelXAAp7aFp8be81K3iFFm2br9T4zW-_uPbN2BDmUZ9Lz_LexCsDn8UpysiO-0dT8euQvX5_grHc2xBjZtIeaiNDjRbGDlJQ7AAs_ozGisWOjk0SXIN7-S3xVNEdeop5zV5mlcPlnIWa2npCiBua9Rt6DTc60MH3fk0ViQ",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "",
+					"value": "",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "https://localhost:5001/api/users/search/givenName eq 'andre'",
+			"folder": "8b7142bc-8c57-68dc-7a2f-bd83556d075e",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *On behalf of a User | Get User Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least User.Read.All in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *On behalf of a User | Get User Access Token* request to update access token. \");\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}\r\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1570823353393,
+			"name": "Get Users $filter",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": []
+		},
+		{
+			"id": "bb97850a-cd64-f4dc-60aa-6d62adce67cc",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6Ik45aGpOdW5BbVNGUWhOaDViVEVtTVN2Q2ZHOExpMkhBa3JQMXQzSE5WYmciLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzE4NTU5LCJuYmYiOjE1NzA3MTg1NTksImV4cCI6MTU3MDcyMjQ1OSwiYWlvIjoiNDJWZ1lDZ09aNXl6djFDSG9ZODU4OWJFblJMc0FBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IndialZMdFZfNmtTcmZkYmFTbDlHQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.O10reVDflc-7IQRrwT4FkKQJQixWlXjlUAMVTMig66nheUlJXvIdSQp1KMLDiXF7BGhcLoOAeE3o-wuxZK0nR90KDaJ9F9bH2f418xUyJh_09y086Bg6_w8sQghURVpjuBRmDRlOenOXJ_isOopfd5orGP513D0wIW0VCx05ADVT2KrQ8v45T16Ipm6YHlOPzHLKtS8-teqyp8g0JyShW2IQwa1Vjul4MVCYgl-f243sFWGmUxKhu_ccC31Io2Jc5sSqQXEDm_nCIlyCeWxLkB7B6bDtK0CwuzxiVpD1ocP0169Pe_HQXWGDx91OyyOyRmdjQTllYvtgC896iPvN3Q\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6Ik45aGpOdW5BbVNGUWhOaDViVEVtTVN2Q2ZHOExpMkhBa3JQMXQzSE5WYmciLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwNzE4NTU5LCJuYmYiOjE1NzA3MTg1NTksImV4cCI6MTU3MDcyMjQ1OSwiYWlvIjoiNDJWZ1lDZ09aNXl6djFDSG9ZODU4OWJFblJMc0FBPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkdyb3VwLlJlYWRXcml0ZS5BbGwiLCJVc2VyLkludml0ZS5BbGwiLCJVc2VyLlJlYWQuQWxsIiwiVXNlci5FeHBvcnQuQWxsIl0sInN1YiI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInRpZCI6IjkzOTcxNTU3LTJjMmQtNDlkYS1iYWI3LTY4MTMzYjExNzE4YyIsInV0aSI6IndialZMdFZfNmtTcmZkYmFTbDlHQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfdGNkdCI6MTUyMTAzNzAwMH0.O10reVDflc-7IQRrwT4FkKQJQixWlXjlUAMVTMig66nheUlJXvIdSQp1KMLDiXF7BGhcLoOAeE3o-wuxZK0nR90KDaJ9F9bH2f418xUyJh_09y086Bg6_w8sQghURVpjuBRmDRlOenOXJ_isOopfd5orGP513D0wIW0VCx05ADVT2KrQ8v45T16Ipm6YHlOPzHLKtS8-teqyp8g0JyShW2IQwa1Vjul4MVCYgl-f243sFWGmUxKhu_ccC31Io2Jc5sSqQXEDm_nCIlyCeWxLkB7B6bDtK0CwuzxiVpD1ocP0169Pe_HQXWGDx91OyyOyRmdjQTllYvtgC896iPvN3Q",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/teams/{{UserId}}",
+			"folder": "bb0d8d4f-a7c4-3b2f-b574-b63d78470d81",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *On behalf of a User | Get User Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least *Group.Read.All* AND *User.Read.All* in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *On behalf of a User | Get User Access Token* request to update access token. \");\r\n        }\r\n        else\r\n        {\r\n            var json = JSON.parse(responseBody);\r\n            postman.setEnvironmentVariable(\"TeamId\", json.value[0].id);\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}\r\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1570815264665,
+			"name": "Get Teams Userid",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": []
+		},
+		{
+			"id": "e25d9c44-23b5-c25e-28d6-e7f975cab508",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6Imc2cG9wZTVybGRQd3BIY1R4S043MVJkUUhQWUw4OHctenluNjZWN1VyU0UiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwODIxMzMyLCJuYmYiOjE1NzA4MjEzMzIsImV4cCI6MTU3MDgyNTIzMiwiYWlvIjoiNDJWZ1lKZ2RhY2FiWXFDNDdaYnQwUTF1YW5QbEFRPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoib3VieUpvbE5Na2l6Y0tFZmtRVWdBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.OrAM19HwUooo9Tbh3Acc2kxE8rBa7lpyrSEshfzKrEa_ikXHtkdiRFhMyjzHAMc-p4ARRVa3nCwf4V0wCSMzfX461tHelQDb8ni-MPafEK8dJ5OzHMMn_n-7xIxs8yHbnelS9zswu27cQ_roe6r8d_ZLmSI5WY25h9jMEpGAqB5lD3NaLFrx11_XpYhxIZonmuSUPZ61TFTR5NkSNB_ov08k7aWwruz1ov92wLNVcNLnAxH-e-VeEOd-hZeqLLgqaVSRdLY7ISAwrccgEZfw-rRtCoHc_TOx6hEKuUzl_sJhSMF5Jdovhu7FHASQ6h0irtbCmEZuKpR9x5kmmRdrQw\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6Imc2cG9wZTVybGRQd3BIY1R4S043MVJkUUhQWUw4OHctenluNjZWN1VyU0UiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwODIxMzMyLCJuYmYiOjE1NzA4MjEzMzIsImV4cCI6MTU3MDgyNTIzMiwiYWlvIjoiNDJWZ1lKZ2RhY2FiWXFDNDdaYnQwUTF1YW5QbEFRPT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoib3VieUpvbE5Na2l6Y0tFZmtRVWdBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.OrAM19HwUooo9Tbh3Acc2kxE8rBa7lpyrSEshfzKrEa_ikXHtkdiRFhMyjzHAMc-p4ARRVa3nCwf4V0wCSMzfX461tHelQDb8ni-MPafEK8dJ5OzHMMn_n-7xIxs8yHbnelS9zswu27cQ_roe6r8d_ZLmSI5WY25h9jMEpGAqB5lD3NaLFrx11_XpYhxIZonmuSUPZ61TFTR5NkSNB_ov08k7aWwruz1ov92wLNVcNLnAxH-e-VeEOd-hZeqLLgqaVSRdLY7ISAwrccgEZfw-rRtCoHc_TOx6hEKuUzl_sJhSMF5Jdovhu7FHASQ6h0irtbCmEZuKpR9x5kmmRdrQw",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/users",
+			"folder": "9825462f-bd41-aff9-d7fa-af5c4ecf2e0b",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *On behalf of a User | Get User Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least *Directory.ReadWrite.All* in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *On behalf of a User | Get User Access Token* request to update access token. \");\r\n        }\r\n        else\r\n        {\r\n            var json = JSON.parse(responseBody);\r\n            postman.setEnvironmentVariable(\"ApplicationId\", json.id);\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}\r\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1570823357391,
+			"name": "Create User",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": [],
+			"rawModeData": "{\n  \"accountEnabled\": true,\n  \"displayName\": \"Marcos\",\n  \"mailNickname\": \"Marcos\",\n  \"userPrincipalName\": \"Marcos@andrefischerdoidohotmail.onmicrosoft.com\",\n  \"passwordProfile\" : {\n    \"forceChangePasswordNextSignIn\": true,\n    \"password\": \"M@nu102030\"\n  }\n}"
+		},
+		{
+			"id": "eb2fc3cd-eccc-5c0e-69d8-d3490f084222",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJub25jZSI6IkdkSEhRQ1ZHM1lTZDdGQnAxbDlvYmJsUmRoYUJBeXpLRGVxdHlJWXY1eGMiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwODIyODQwLCJuYmYiOjE1NzA4MjI4NDAsImV4cCI6MTU3MDgyNjc0MCwiYWlvIjoiNDJWZ1lJajV1WU5iOHV4M3J3dm5qVS9NdlBJb0hnQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoiaHZlR2lnR2dGVXlYUERJaUQ5Y2VBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.lfRzqUs1NA6iXwT2MtjEnvvW7Q43GMDEPj_aNuHANzPavFU7_fV9Z23spqLZCwCYTpEe045HXYj3KxEs3lOY4eCQil2uhOPxMQ1MpUNYY9i83WuAFtabCfLGYD9ZG1q5D-X4A0HGvp3uEqUPLaF7djdi-lxc-VrsSs-Eu--E0avFjYVoONra0ybuJnBK59kJvOM1RVpWFX-AQpThNYPA_h6PFMPrZqT7vxs5cqPzPaIPto-r8TxNuwmgAATJfM7Wy_V8VHMxFS8TiX-HcpaeFRysAkmzZavbyTik1zYwV-dOmzmDQ_SlkbS48d4YCkIKVVQy-VC4O73AHb0eiQ-NgA\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJub25jZSI6IkdkSEhRQ1ZHM1lTZDdGQnAxbDlvYmJsUmRoYUJBeXpLRGVxdHlJWXY1eGMiLCJhbGciOiJSUzI1NiIsIng1dCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyIsImtpZCI6ImFQY3R3X29kdlJPb0VOZzNWb09sSWgydGlFcyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85Mzk3MTU1Ny0yYzJkLTQ5ZGEtYmFiNy02ODEzM2IxMTcxOGMvIiwiaWF0IjoxNTcwODIyODQwLCJuYmYiOjE1NzA4MjI4NDAsImV4cCI6MTU3MDgyNjc0MCwiYWlvIjoiNDJWZ1lJajV1WU5iOHV4M3J3dm5qVS9NdlBJb0hnQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhcHBsNSIsImFwcGlkIjoiNWFjNTRhN2ItZjRlNC00MzQwLWFiZDctM2EzMjMwZWVjNTg0IiwiYXBwaWRhY3IiOiIxIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjLyIsIm9pZCI6IjE4ZDQxZDljLWNhNTMtNGUyYS1hNGYwLTMxNzllYmY4NWFmMyIsInJvbGVzIjpbIlVzZXIuUmVhZFdyaXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkV3JpdGUuQWxsIiwiR3JvdXAuUmVhZFdyaXRlLkFsbCIsIlVzZXIuSW52aXRlLkFsbCIsIkRpcmVjdG9yeS5SZWFkLkFsbCIsIlVzZXIuUmVhZC5BbGwiLCJVc2VyLkV4cG9ydC5BbGwiXSwic3ViIjoiMThkNDFkOWMtY2E1My00ZTJhLWE0ZjAtMzE3OWViZjg1YWYzIiwidGlkIjoiOTM5NzE1NTctMmMyZC00OWRhLWJhYjctNjgxMzNiMTE3MThjIiwidXRpIjoiaHZlR2lnR2dGVXlYUERJaUQ5Y2VBQSIsInZlciI6IjEuMCIsInhtc190Y2R0IjoxNTIxMDM3MDAwfQ.lfRzqUs1NA6iXwT2MtjEnvvW7Q43GMDEPj_aNuHANzPavFU7_fV9Z23spqLZCwCYTpEe045HXYj3KxEs3lOY4eCQil2uhOPxMQ1MpUNYY9i83WuAFtabCfLGYD9ZG1q5D-X4A0HGvp3uEqUPLaF7djdi-lxc-VrsSs-Eu--E0avFjYVoONra0ybuJnBK59kJvOM1RVpWFX-AQpThNYPA_h6PFMPrZqT7vxs5cqPzPaIPto-r8TxNuwmgAATJfM7Wy_V8VHMxFS8TiX-HcpaeFRysAkmzZavbyTik1zYwV-dOmzmDQ_SlkbS48d4YCkIKVVQy-VC4O73AHb0eiQ-NgA",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:5001/api/users/5b0d3848-40d6-4e5c-b6a4-a89ae4dcccb3",
+			"folder": "9825462f-bd41-aff9-d7fa-af5c4ecf2e0b",
+			"queryParams": [],
+			"preRequestScript": "",
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PATCH",
+			"data": [],
+			"dataMode": "raw",
+			"tests": "try {\r\n    if (responseBody.indexOf(\"InvalidAuthenticationToken\") !== -1)\r\n    {\r\n        console.log(\"You need to run *On behalf of a User | Get User Access Token* request first.\");\r\n    }\r\n    else\r\n    {\r\n        if (pm.response.status === \"Forbidden\")\r\n        {\r\n            console.log(\"You need to add user delegated permissions in your application to at least *Directory.ReadWrite.All* in portal.azure.com and then consent as user or Grant admin consent in portal. And re-run *On behalf of a User | Get User Access Token* request to update access token. \");\r\n        }\r\n        else\r\n        {\r\n            var json = JSON.parse(responseBody);\r\n            postman.setEnvironmentVariable(\"ApplicationId\", json.id);\r\n        }\r\n    }\r\n}\r\ncatch (e) {\r\n    console.log(e);\r\n}\r\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1570823360893,
+			"name": "Update User",
+			"description": "",
+			"collectionId": "4a2849ea-7aac-f16c-f5e5-5f157a3699f8",
+			"responses": [],
+			"rawModeData": "{\n  \"businessPhones\": [\n    \"11980383213\"\n  ],\n  \"officeLocation\": \"Barueri\"\n}"
+		}
+	]
+}
