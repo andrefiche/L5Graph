@@ -7,5 +7,6 @@ steps:
   commands:
     - dnu restore
 - name: Build .NET
+  image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
   commands:
-    - dotnet run
+    - dnu run
