@@ -2,8 +2,8 @@ kind: pipeline
 name: default
 
 steps:
-	build:
-    image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
-    commands:
-        - dnu restore
-        - dnx test
+  name: Build
+  image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
+  commands:
+      - dnu restore
+      - dnx test
