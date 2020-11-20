@@ -9,4 +9,4 @@ steps:
 - name: Build .NET
   image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
   commands:
-    - dnu run
+    - dnu build
