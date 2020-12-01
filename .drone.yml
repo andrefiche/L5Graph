@@ -3,10 +3,10 @@ name: default
 
 steps:
 - name: Pre-config
-  image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
+  image: mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
   commands:
-    - dnu restore
+    - dotnet restore
 - name: Build .NET
-  image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
+  image: mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
   commands:
-    - dnu build
+    - dotnet publish -c Release -o out
