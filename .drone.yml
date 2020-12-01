@@ -1,12 +1,12 @@
-kind: pipeline
-name: default
+build:
+  image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
+  environment:
+    - DNX_PACKAGES=/drone/nuget_cache
+  commands:
+    - dnu restore
+    - dnx test
 
-steps:
-- name: Pre-config
-  image: mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
-  commands:
-    - dotnet restore
-- name: Build .NET
-  image: mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
-  commands:
-    - dotnet publish -c Release -o out
+cache:
+  mount:
+    - /drone/nuget_cache
+    - project.lock.json
