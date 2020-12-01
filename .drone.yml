@@ -1,10 +1,10 @@
 kind: pipeline
 type: docker
-name: default
+name: deployment
 
-steps:
-- name: greeting
-  image: alpine
+ steps:
+- name: build
+  image: microsoft/dotnet
   commands:
-  - echo hello
-  - echo world
+  - dotnet restore
+  - dotnet build -c Release
