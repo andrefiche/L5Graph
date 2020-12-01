@@ -1,3 +1,6 @@
+kind: pipeline
+type: docker
+
 build:
   image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
   environment:
