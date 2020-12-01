@@ -2,7 +2,7 @@ kind: pipeline
 type: docker
 name: deployment
 
- steps:
+steps:
 - name: build
   image: microsoft/dotnet
   commands:
