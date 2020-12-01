@@ -1,15 +1,16 @@
 kind: pipeline
 type: docker
 
-build:
-  image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
-  environment:
-    - DNX_PACKAGES=/drone/nuget_cache
-  commands:
-    - dnu restore
-    - dnx test
+steps:
+  build:
+    image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
+    environment:
+      - DNX_PACKAGES=/drone/nuget_cache
+    commands:
+      - dnu restore
+      - dnx test
 
-cache:
-  mount:
-    - /drone/nuget_cache
-    - project.lock.json
+  cache:
+    mount:
+      - /drone/nuget_cache
+      - project.lock.json
