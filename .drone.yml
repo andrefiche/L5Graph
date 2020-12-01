@@ -2,6 +2,7 @@ kind: pipeline
 type: docker
 
 steps:
+- name: build
   build:
     image: microsoft/aspnet:1.0.0-rc1-update1-coreclr
     environment:
@@ -9,7 +10,8 @@ steps:
     commands:
       - dnu restore
       - dnx test
-
+      
+- name: package
   cache:
     mount:
       - /drone/nuget_cache
